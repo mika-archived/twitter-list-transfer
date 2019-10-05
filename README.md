@@ -2,6 +2,11 @@
 
 Transfer your list to another account.
 
+...
+
+This tool supports so-called account reincarnation (Migrate to a different account).  
+Register the selected list of accounts from the first entry with the second entry.
+
 
 ## Usage
 
