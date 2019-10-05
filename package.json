@@ -1,0 +1,26 @@
+{
+  "name": "@mikazuki/twitter-list-transfer",
+  "version": "1.0.0",
+  "description": "Transfer your list to another account.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/mika-sandbox/twitter-list-transfer",
+  "author": "Mikazuki <mikazuki_fuyuno@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^12.7.11",
+    "@types/twitter": "^1.7.0",
+    "@typescript-eslint/eslint-plugin": "^2.3.2",
+    "@typescript-eslint/parser": "^2.3.2",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
